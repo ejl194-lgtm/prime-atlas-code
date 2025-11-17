@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Lina A. Shehadeh
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'LEE-nah SHEH-ha-deh'
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Lina
+last_name: Shehadeh
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🧬
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,150 +23,155 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Professor of Medicine, Cardiovascular Research
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Miami Miller School of Medicine
+    url: https://med.miami.edu/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# (Replace placeholders with her real links when you have them.)
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: 'mailto:linashehadeh@med.miami.edu'
+    label: Email
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: 'https://www.linkedin.com'
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: 'https://scholar.google.com'
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: 'https://orcid.org'
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Heart failure with preserved ejection fraction (HFpEF)
+  - Osteopontin and cardiac remodeling
+  - Gene regulatory networks and complex systems
+  - Cardiometabolic disease and mitochondrial biology
+  - AI and data science in cardiovascular medicine
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD, Complex Systems and Brain Sciences
+    institution: Florida Atlantic University, Boca Raton, FL
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 1998-09-01
+    date_end: 2002-06-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      Doctoral work in complex systems and brain sciences, focusing on nonlinear dynamics and genetic regulatory networks.
+  - area: MST, Teaching Sciences
+    institution: Florida Atlantic University, Boca Raton, FL
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 1995-09-01
+    date_end: 1997-06-30
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Master of Science in Teaching with emphasis in the sciences.
+  - area: BS, Microbiology
+    institution: Florida Atlantic University, Boca Raton, FL
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 1991-09-01
+    date_end: 1995-06-30
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Undergraduate training in microbiology.
+  - area: Certificate, Data Science and Machine Learning (AI)
+    institution: Massachusetts Institute of Technology, Cambridge, MA
+    icon: ""
+    date_start: 2023-01-01
+    date_end: 2023-12-31
+    summary: |
+      Professional certificate in data science and machine learning with applications to biomedical research.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Research Professor of Medicine
+    company_name: University of Miami Miller School of Medicine
+    company_url: 'https://med.miami.edu/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2021-01-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Principal investigator leading translational cardiovascular research programs in heart failure, osteopontin biology,
+      and cardiometabolic disease. Mentors trainees across undergraduate, graduate, and clinical levels.
+  - position: Research Associate Professor of Medicine
+    company_name: University of Miami Miller School of Medicine
+    company_url: 'https://med.miami.edu/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2018-01-01
+    date_end: 2020-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Directed projects on gene regulatory networks and cardiac remodeling, with a focus on mitochondrial pathways.
+  - position: Assistant Professor / Research Assistant Professor of Medicine
+    company_name: University of Miami Miller School of Medicine
+    company_url: 'https://med.miami.edu/'
+    icon: ''
+    date_start: 2009-01-01
+    date_end: 2017-12-31
+    summary: |
+      Developed independent research program in cardiovascular biology and complex systems.
+  - position: Postdoctoral Associate
+    company_name: Florida Atlantic University, Center for Complex Systems and Brain Sciences
+    company_url: 'https://www.fau.edu/'
+    icon: ''
+    date_start: 2002-01-01
+    date_end: 2005-12-31
+    summary: |
+      Postdoctoral research in nonlinear dynamics and gene regulatory networks.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Research & Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
+      - name: Cardiovascular Biology & Heart Failure Models
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+        icon: heart
+      - name: Molecular & Cellular Techniques
+        description: ''
+        percent: 95
+        icon: beaker
+      - name: Data Science & AI Applications
         description: ''
         percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+        icon: cpu-chip
+  - name: Leadership & Mentoring
+    color: '#f47321'
+    color_border: '#005030'
     items:
-      - name: Hiking in the Rockies
+      - name: Lab Leadership & Grant Writing
         description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        percent: 95
+        icon: academic-cap
+      - name: Mentoring Trainees
+        description: ''
+        percent: 95
+        icon: users
+      - name: Curriculum & Educational Innovation
         description: ''
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
         icon: book-open
 
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
+  - title: NSF-Supported Curriculum Development in Fractals and Chaos
+    url: ''
+    date: '2002-01-01'
     awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Co-developed undergraduate curriculum materials on fractals and chaos, integrated into a nationally distributed CD-ROM.
+  - title: Senior & Corresponding Author on Osteopontin and HFpEF Studies
+    url: ''
+    date: '2019-01-01'
+    awarder: Journal of the American College of Cardiology and related venues
+    icon: hero/trophy
+    summary: |
+      Recognized for seminal contributions linking osteopontin to diastolic dysfunction and mitochondrial pathways in HFpEF.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Lina A. Shehadeh, PhD, is a Research Professor of Medicine at the University of Miami Miller School of Medicine.  
+Her work bridges complex systems, gene regulatory networks, and translational cardiovascular biology, with a focus on
+osteopontin, heart failure with preserved ejection fraction, and cardiometabolic disease. Trained in complex systems and
+brain sciences and certified in data science and machine learning from MIT, Dr. Shehadeh integrates computational and
+experimental approaches to uncover mechanisms of cardiac remodeling and mitochondrial dysfunction. She leads a
+multidisciplinary research program, mentors trainees across career stages, and collaborates widely to bring innovative
+therapeutic strategies closer to patients.
